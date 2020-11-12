@@ -1,12 +1,17 @@
 {
   "Format": "1.18.0",
   "Changes": [
-            {
+	{
+	  
           "LogName": "Abigail Custom Dialogue",
           "Action": "EditData",
           "Target": "Characters/Dialogue/Abigail",
           "Entries": {
-		  },
+		"winter_Mon10": "Winter really is the perfect time to explore the mines.$u#$b#I guess I'll see you down there!$h",
+	  }
+	  
+	},
+	
 		 
   ]
   }
