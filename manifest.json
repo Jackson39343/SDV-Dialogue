@@ -4,7 +4,7 @@
    "Author": "Jackson",
    "Description": "Adds and changes dialogue!",
    "Version": "1.0.0",
-   "UniqueID": "Jackson.SDVDialogue ",
+   "UniqueID": "Jackson.SDVDialogue",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
     },
