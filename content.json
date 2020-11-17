@@ -21,6 +21,16 @@
 	  }
 	  
 	},
+	{
+	  
+          "LogName": "Sam Custom Dialogue",
+          "Action": "EditData",
+          "Target": "Characters/Dialogue/Sam",
+          "Entries": {
+		"summer_28": "I'll miss the beach, now that fall is right around the corner.$s#$b#At least I've got my skateboard. See you around, @.$u",		  
+	  }
+	  
+	},
 		 
   ]	
   }
