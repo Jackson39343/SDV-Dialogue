@@ -17,7 +17,7 @@
           "Action": "EditData",
           "Target": "Characters/Dialogue/Wizard",
           "Entries": {
-		"summer_Tue4": "Until the end of Fall, the ocean radiates higher levels of arcane energies.$u#$b#If you can fish for one, I would find Super Cucumber very useful for my studies.",		  
+		"summer_Tue4": "Until the end of Fall, the ocean radiates higher levels of arcane energies.$u#$b#If you can fish for one, I would find Super Cucumber very useful for my studies.$u",		  
 	  }
 	  
 	},
