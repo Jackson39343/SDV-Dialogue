@@ -3,7 +3,7 @@
   "Name": "Jackson's SDV Dialogue",
    "Author": "Jackson",
    "Description": "Adds and changes dialogue!",
-   "Version": "1.0.0",
+   "Version": "1.0.2",
    "UniqueID": "Jackson.SDVDialogue",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
