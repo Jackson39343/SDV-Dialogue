@@ -31,7 +31,26 @@
 	  }
 	  
 	},
-		 
+	{
+	  
+          "LogName": "Willy Custom Dialogue",
+          "Action": "EditData",
+          "Target": "Characters/Dialogue/Willy",
+          "Entries": {
+		"summer_27": "Tomorrow night the sea will be full of glowing jellyfish.$u#$b#In an old fisherman's tale, these are named the 'Moonlight Jellies'.$u",		  
+	  }
+	  
+	},	 
+	{
+	  
+          "LogName": "Penny Custom Dialogue",
+          "Action": "EditData",
+          "Target": "Characters/Dialogue/Penny",
+          "Entries": {
+		"fall_Wed4": "Have you heard of Skull Cavern? It's a cave rumored to be near Calico desert.$u#$b#I read about it, there's just so much to learn from books.$h",		  
+	  }
+	  
+	},	
   ]	
   }
  
